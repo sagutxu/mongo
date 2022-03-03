@@ -1,0 +1,14 @@
+
+{
+    "nom": 4,
+    "alumnos" : [ { "nombre" : "Erlantz", "apellido" : "Blanco","edad" : 19  },
+                { "nombre" : "Peio","edad" : 19, "telefono" : 789656321 },
+                { "nombre" : "Jaime","dimensiones" {"altura" : 174 , "Peso" :70}}      
+    ],
+    "equipos": 25,
+    "aire" : true ,
+    "asignaturas" : [ "lm", "bbdd", "hw", "rd","ss", "fol" ]
+}
+
+
+//  clase.alumnos[0].nombre
